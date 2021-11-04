@@ -16,7 +16,9 @@ p{
     letter-spacing: 0.3rem;
     width: 23rem;
     height: 4rem;
-    border-radius: 1rem;
+    border-radius: 0.8rem;
+    outline: 0.5rem solid tomato;
+    outline-offset: 0.5rem;
 }
 
 #display{
