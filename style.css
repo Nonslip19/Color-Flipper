@@ -1,0 +1,38 @@
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10rem;
+}
+
+p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(14, 92, 92);
+    color: white;
+    font-size: 1.5rem;
+    letter-spacing: 0.3rem;
+    width: 23rem;
+    height: 4rem;
+    border-radius: 1rem;
+}
+
+#display{
+    color: tomato;
+}
+
+#button{
+    width: 10rem;
+    height: 2.5rem;
+    font-size: 1.3rem;
+    border-radius: 0.5rem;
+    border-style: none;
+    cursor: pointer;
+
+}
+
+#button:hover{
+    background-color: rgb(104, 170, 170);
+}
